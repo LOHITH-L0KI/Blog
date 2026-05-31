@@ -1,0 +1,6 @@
+{
+    "loginUrl": "http://localhost:5000/api/login",
+    "logoutUrl": "http://localhost:5000/api/logout",
+    "postsUrl": "http://localhost:5000/api/posts",
+    "topicsUrl": "http://localhost:5000/api/topics"
+}
